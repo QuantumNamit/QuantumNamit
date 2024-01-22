@@ -14,7 +14,7 @@ I'm Namit - aspiring coder, dreamer, and the architect of my tech destiny. 🚀
 
 💬 Feel free to reach out, connect, or share your own tech odyssey. Let's inspire, innovate, and code the future together!
 
-https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png
+https://en.wikipedia.org/wiki/File:JavaScript-logo.png
 
 Happy coding! 🌟
 
