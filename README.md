@@ -9,12 +9,12 @@ I'm Namit - aspiring coder, dreamer, and the architect of my tech destiny. 🚀
 🔭 While I may be a name you haven't heard yet, rest assured, I'm on a mission to become a force in the tech world. Through every line of code, every bug fixed, and every problem solved, I'm sculpting a path that will soon be recognized.
 
 👯 I'm eagerly looking to collaborate with fellow enthusiasts, mentors, and visionaries who believe in the power of coding to shape the future. Together, we'll create solutions that transcend the ordinary and redefine what's possible.
+![JavaScript-logo](https://github.com/QuantumNamit/QuantumNamit/assets/115895907/3f890242-0710-4670-aa0d-643666f97e46)
 
 🚀 Join me on this journey - the ascent from anonymity to influence in the dynamic world of tech. The best is yet to come, and I'm coding my way to the top!
 
 💬 Feel free to reach out, connect, or share your own tech odyssey. Let's inspire, innovate, and code the future together!
 
-https://en.wikipedia.org/wiki/File:JavaScript-logo.png
 
 Happy coding! 🌟
 
