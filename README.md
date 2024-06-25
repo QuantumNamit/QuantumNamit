@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Greetings, Future Tech Trailblazers   ! 
+Greetings, Future Tech Trailblazers  ! 
 
 I'm Namit - aspiring coder, dreamer, and the architect of my tech  destiny.  🚀 
 
