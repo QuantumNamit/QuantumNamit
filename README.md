@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Greetings, Future Tech Trailblazers ! 
 
-I'm Namit - aspiring coder, dreamer, and the architect of my  tech  destiny.   🚀 
+I'm Namit - aspiring coder, dreamer, and the architect of my  tech  destiny.  🚀 
 
 🌱 Currently navigating the exciting realms of technology, I'm on a journey from "no one" to "someone" in the vast universe of coding and innovation. My code is my canvas, and every project is a step toward building a legacy . 
 
