@@ -4,7 +4,7 @@ Greetings !
 
 I'm Namit - aspiring coder and a dreamer.  🚀 
 
-🌱 I'm on a journey from "no one" to "someone" in the vast universe of coding and innovation. My code is my canvas, and every project is a step toward building a legacy :) . 
+🫰 I'm on a journey from "no one" to "someone" in the vast universe of coding and innovation. My code is my canvas, and every project is a step toward building a legacy :) . 
 
 * 🌍  I'm based in Calgary
   
