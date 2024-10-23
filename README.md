@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Greetings ! 
 
-I'm Namit - aspiring coder and a dreamer.  🚀 
+I'm Namit - aspiring coder and a dreamer.   🚀 
 
 🫰 I'm on a journey from "no one" to "someone" in the vast universe of coding and innovation. My code is my canvas, and every project is a step toward building a legacy :) . 
 
